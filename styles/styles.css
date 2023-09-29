@@ -40,7 +40,7 @@ body {
 }
 
 .class-card {
-    background-color: #eeeeee;
+    background-color:blue;
     color: black;
     transition-property: all;
     transition-duration: 0.3s;
