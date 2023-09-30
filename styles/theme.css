@@ -25,7 +25,7 @@
 }
 
 .navbar {
-    --bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-active-color: white;
     --bs-navbar-padding-x: 0.1rem;
     --bs-navbar-padding-y: 0;
     --bs-navbar-brand-color: white;
@@ -42,7 +42,7 @@
 }
 
 .navbar-nav {
-    --bs-nav-link-color: blue;
+    --bs-nav-link-color: gray;
     --bs-nav-link-hover-color: gray;
 }
 
