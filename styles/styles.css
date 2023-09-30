@@ -47,6 +47,6 @@ body {
 }
 
 .class-card:hover {
-    background-color: var(--bs-primary);
+    background-color: AntiqueWhite;
     color: white;
 }
