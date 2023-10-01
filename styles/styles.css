@@ -28,9 +28,18 @@ background-color: Cornsilk;
 }
 
 
-.progressBar{
-width: 60%;
+.progressBarContainer {
+  width: 100%;
+  background-color: #ccc;
 }
+
+.progressBar {
+  width: 60%;
+  height: 20px; 
+  background-color: 
+}
+
+
 
 
 
