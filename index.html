@@ -368,8 +368,21 @@
                                        <option value="No">No</option>
                                    </select>        
 
+        <p id="thank-you-message" style="display: none;">Thank you for your input</p>
+        var selectedChoice = document.getElementbyId("dropdown");
+        var thankYouMessage = document.getElementById("thank-you-message");
+
+        if((selectedChoice.value == "Yes") || (selectedChoice.value == "No")){
+         thankYouMessage.style.display = "block";
+        
+        }
+
+
+
         
       </br>
+
+
         
         <div class="row mt-5 next justify-content-center align-items-center">
           <a href="#contact" class="text-center"
