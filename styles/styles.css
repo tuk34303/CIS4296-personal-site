@@ -30,13 +30,13 @@ background-color: Cornsilk;
 
 .progressBarContainer {
   width: 100%;
-  background-color: #ccc;
+  background-color: gray;
 }
 
 .progressBar {
   width: 60%;
   height: 20px; 
-  background-color: 
+  background-color: blue;
 }
 
 
