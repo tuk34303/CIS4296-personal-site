@@ -365,6 +365,24 @@
 
 
 
+ <script>
+        // JavaScript to handle dropdown selection
+        document.getElementById("dropdown").addEventListener("change", function () {
+            var selectedValue = this.value;
+            var message = document.getElementById("message");
+            if (selectedValue === "Yes" || selectedValue === "No") {
+                message.textContent = "Thank you for your input: " + selectedValue;
+            } else {
+                message.textContent = ""; // Clear the message if None is selected
+            }
+        });
+    </script>
+
+
+
+
+
+        
 
         
 <br/><br/>
