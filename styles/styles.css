@@ -8,6 +8,12 @@ body {
     padding-top: 75px;
 }
 
+.Button{
+    background-color: Crimson;
+    text-align: center;
+    border-radius: 5px;
+}
+
 .next {
     font-size: 65px;
 }
