@@ -19,7 +19,7 @@ body {
             width: 25%;
 }
 
-#dropdown{
+.labelClass{
 background-color: Cornsilk;
             border: 1px solid; 
             border-radius: 5px; 
