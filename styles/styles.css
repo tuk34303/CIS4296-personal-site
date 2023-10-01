@@ -9,9 +9,13 @@ body {
 }
 
 .Button{
-    background-color: Crimson;
-    text-align: center;
-    border-radius: 5px;
+   background-color: Crimson; 
+            color: white;
+            padding: 10px 20px; 
+            border-radius: 5px;
+            text-align: center; 
+            text-decoration: none;
+            display: inline-block; 
 }
 
 .next {
