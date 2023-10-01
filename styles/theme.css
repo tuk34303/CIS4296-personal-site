@@ -42,8 +42,8 @@
 }
 
 .navbar-nav {
-    --bs-nav-link-color: gray;
-    --bs-nav-link-hover-color: gray;
+    --bs-nav-link-color: black;
+    --bs-nav-link-hover-color: Navy;
 }
 
 /* .btn-primary {
