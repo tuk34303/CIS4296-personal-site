@@ -9,13 +9,14 @@ body {
 }
 
 .Button{
-   background-color: Crimson; 
-            color: white;
+   background-color: Artichoke; 
+            text-color: white;
             padding: 10px 20px; 
             border-radius: 5px;
-            text-align: center; 
+            text-align: left; 
             text-decoration: none;
             display: inline-block; 
+            width: 40%;
 }
 
 .next {
