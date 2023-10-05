@@ -28,7 +28,7 @@
     <script>
      <!-- 'https://randomuser.me/api/?inc=name,picture' -->
       
-      fetch('https://th.bing.com/th?id=AMMS_S_44840990-98d6-d7ea-c8f8-7da740b0ca6c&w=80&h=80&c=1&vt=9&bgcl=8c5768&r=0&o=6&pid=5.1')
+      fetch('https://randomuser.me/api/?inc=name,picture')
         .then((response) => response.json())
         .then(({ results }) => results[0])
         .then(({ name, picture }) => {
